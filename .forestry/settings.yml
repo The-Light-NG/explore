@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: Y-C Dev Files
-webhook_url: 
+webhook_url: "/nuruddeen"
 sections:
 - type: directory
   path: 'Y-C Dev team '
