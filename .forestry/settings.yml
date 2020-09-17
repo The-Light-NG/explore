@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: Y-C-Dev-team files
-webhook_url: "/Dev-nur"
+webhook_url: "/Devnur"
 sections:
 - type: directory
   path: 'Y-C Dev team '
