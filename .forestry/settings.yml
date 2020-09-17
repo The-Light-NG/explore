@@ -3,7 +3,13 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: 'Y-C Dev team '
+  label: Y-c-dev-package
+  create: all
+  match: Dev.to/thelight3
+  new_doc_ext: "[![Nuruddeen Salis's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/theligh3)"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
