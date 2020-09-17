@@ -10,11 +10,11 @@ sections:
   create: all
   match: "/thelight3"
   new_doc_ext: theligh3)
-upload_dir: uploads
+upload_dir: YCDepgit
 public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
-file_template: ":filename:"
+front_matter_path: "/path/devnur"
+use_front_matter_path: true
+file_template: 'Devnur/:filename:'
 build:
   install_dependencies_command: npm install
   preview_docker_image: forestryio/node:12
